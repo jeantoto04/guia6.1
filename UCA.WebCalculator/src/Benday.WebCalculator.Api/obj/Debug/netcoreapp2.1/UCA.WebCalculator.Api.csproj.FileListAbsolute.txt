@@ -1,0 +1,38 @@
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.deps.json
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.runtimeconfig.json
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.runtimeconfig.dev.json
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.pdb
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.csprojAssemblyReference.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.csproj.CoreCompileInputs.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.AssemblyInfoInputs.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.AssemblyInfo.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.pdb
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.deps.json
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.runtimeconfig.json
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.runtimeconfig.dev.json
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.pdb
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.csprojAssemblyReference.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.csproj.CoreCompileInputs.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.AssemblyInfoInputs.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.AssemblyInfo.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.pdb
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\6\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.deps.json
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\6\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.runtimeconfig.json
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\6\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.runtimeconfig.dev.json
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\6\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\6\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.pdb
+C:\Code\guia6\guia6\UCA.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.deps.json
+C:\Code\guia6\guia6\UCA.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.runtimeconfig.json
+C:\Code\guia6\guia6\UCA.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.runtimeconfig.dev.json
+C:\Code\guia6\guia6\UCA.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.dll
+C:\Code\guia6\guia6\UCA.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.pdb
+C:\Code\guia6\guia6\UCA.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.csprojAssemblyReference.cache
+C:\Code\guia6\guia6\UCA.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.csproj.CoreCompileInputs.cache
+C:\Code\guia6\guia6\UCA.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.AssemblyInfoInputs.cache
+C:\Code\guia6\guia6\UCA.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.AssemblyInfo.cs
+C:\Code\guia6\guia6\UCA.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.dll
+C:\Code\guia6\guia6\UCA.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.pdb

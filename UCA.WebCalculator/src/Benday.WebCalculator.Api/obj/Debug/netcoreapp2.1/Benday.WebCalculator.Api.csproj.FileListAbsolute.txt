@@ -1,0 +1,11 @@
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\Benday.WebCalculator.Api.deps.json
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\Benday.WebCalculator.Api.runtimeconfig.json
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\Benday.WebCalculator.Api.runtimeconfig.dev.json
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\Benday.WebCalculator.Api.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\Benday.WebCalculator.Api.pdb
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\Benday.WebCalculator.Api.csproj.CoreCompileInputs.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\Benday.WebCalculator.Api.AssemblyInfoInputs.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\Benday.WebCalculator.Api.AssemblyInfo.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\Benday.WebCalculator.Api.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\Benday.WebCalculator.Api.pdb
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\Benday.WebCalculator.Api.csprojAssemblyReference.cache

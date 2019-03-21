@@ -1,0 +1,82 @@
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.deps.json
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.runtimeconfig.json
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.runtimeconfig.dev.json
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.pdb
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.Views.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.Views.pdb
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.pdb
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.csprojAssemblyReference.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.csproj.CoreCompileInputs.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.RazorAssemblyInfo.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.RazorAssemblyInfo.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.AssemblyInfoInputs.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.AssemblyInfo.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.TagHelpers.input.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.TagHelpers.output.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.RazorCoreGenerate.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\Razor\Views\Calculator\Index.g.cshtml.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.RazorTargetAssemblyInfo.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.RazorTargetAssemblyInfo.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.Views.pdb
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.csproj.CopyComplete
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\architecting\03\demos\after\Benday.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.pdb
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.deps.json
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.runtimeconfig.json
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.runtimeconfig.dev.json
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.pdb
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.Views.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.Views.pdb
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.pdb
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.csprojAssemblyReference.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.csproj.CoreCompileInputs.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.RazorAssemblyInfo.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.RazorAssemblyInfo.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.AssemblyInfoInputs.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.AssemblyInfo.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.TagHelpers.input.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.TagHelpers.output.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.RazorCoreGenerate.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.RazorTargetAssemblyInfo.cache
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.RazorTargetAssemblyInfo.cs
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.Views.pdb
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.csproj.CopyComplete
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.dll
+D:\CURSOS\UCA2018\Validacion y Mantenimiento\Agenda006\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.pdb
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\6\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.deps.json
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\6\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.runtimeconfig.json
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\6\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\bin\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.runtimeconfig.dev.json
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\6\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.dll
+C:\Users\jeanc\Documents\Vl\Ingeniería de software validación y mantenimiento - Grupo  V020 - Docente  Livingstone Cano\6\BeforeLCANO\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.pdb
+C:\Code\guia6\guia6\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.csprojAssemblyReference.cache
+C:\Code\guia6\guia6\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.csproj.CoreCompileInputs.cache
+C:\Code\guia6\guia6\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.RazorAssemblyInfo.cache
+C:\Code\guia6\guia6\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.RazorAssemblyInfo.cs
+C:\Code\guia6\guia6\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.AssemblyInfoInputs.cache
+C:\Code\guia6\guia6\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.AssemblyInfo.cs
+C:\Code\guia6\guia6\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.dll
+C:\Code\guia6\guia6\UCA.WebCalculator\src\Benday.WebCalculator.WebUi\obj\Debug\netcoreapp2.1\UCA.WebCalculator.WebUi.pdb
