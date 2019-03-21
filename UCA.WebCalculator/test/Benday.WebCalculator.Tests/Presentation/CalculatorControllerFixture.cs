@@ -1,21 +1,17 @@
-﻿using System;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using UCA.WebCalculator.Api;
+using UCA.WebCalculator.WebUi;
+using UCA.WebCalculator.WebUi.Controllers;
+using UCA.WebCalculator.WebUi.Models;
 
 namespace UCA.WebCalculator.Tests.Presentation
 {
 
-    [TestMethod]
-
-    public void CalculatorController_Index_ModelIsNull();
-    {
-    var actual = UnitTestUtility.GetModel<CalculatorViewModel>(SystemUnderTest.Index());
-
-    Assert.IsNotNull(actual, "Model was null.");
-    }
-
-
-[TestClass]
+   [TestClass]
     public class CalculatorControllerFixture
     {
         private CalculatorController _SystemUnderTest;

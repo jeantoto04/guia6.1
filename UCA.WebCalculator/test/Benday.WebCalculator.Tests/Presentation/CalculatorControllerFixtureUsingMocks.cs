@@ -1,6 +1,11 @@
-﻿using System;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using UCA.WebCalculator.WebUi;
+using UCA.WebCalculator.WebUi.Controllers;
+using UCA.WebCalculator.WebUi.Models;
 
 namespace UCA.WebCalculator.Tests.Presentation
 {

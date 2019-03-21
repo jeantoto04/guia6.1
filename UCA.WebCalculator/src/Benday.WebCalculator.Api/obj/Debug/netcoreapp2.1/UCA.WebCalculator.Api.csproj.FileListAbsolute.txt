@@ -36,3 +36,14 @@ C:\Code\guia6\guia6\UCA.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\net
 C:\Code\guia6\guia6\UCA.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.AssemblyInfo.cs
 C:\Code\guia6\guia6\UCA.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.dll
 C:\Code\guia6\guia6\UCA.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.pdb
+C:\Users\jeanc\Documents\GitHub\guia6.1\UCA.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.deps.json
+C:\Users\jeanc\Documents\GitHub\guia6.1\UCA.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.runtimeconfig.json
+C:\Users\jeanc\Documents\GitHub\guia6.1\UCA.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.runtimeconfig.dev.json
+C:\Users\jeanc\Documents\GitHub\guia6.1\UCA.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.AssemblyInfo.cs
+C:\Users\jeanc\Documents\GitHub\guia6.1\UCA.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.dll
+C:\Users\jeanc\Documents\GitHub\guia6.1\UCA.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.pdb
+C:\Users\jeanc\Documents\GitHub\guia6.1\UCA.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.dll
+C:\Users\jeanc\Documents\GitHub\guia6.1\UCA.WebCalculator\src\Benday.WebCalculator.Api\bin\Debug\netcoreapp2.1\UCA.WebCalculator.Api.pdb
+C:\Users\jeanc\Documents\GitHub\guia6.1\UCA.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.csprojAssemblyReference.cache
+C:\Users\jeanc\Documents\GitHub\guia6.1\UCA.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.csproj.CoreCompileInputs.cache
+C:\Users\jeanc\Documents\GitHub\guia6.1\UCA.WebCalculator\src\Benday.WebCalculator.Api\obj\Debug\netcoreapp2.1\UCA.WebCalculator.Api.AssemblyInfoInputs.cache
